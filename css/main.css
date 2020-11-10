@@ -38,6 +38,20 @@ section {
     color: #fff;
 }
 
+section div a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 1rem;
+  margin: 0 auto 1rem;
+}
+
+section div {
+  display: flex;
+  flex-direction: column;
+  align-self: inherit;
+}
+
 div {
   text-align: center;
   justify-content: space-between;
