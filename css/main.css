@@ -116,3 +116,18 @@ p {
     grid-template-columns: 1fr 1fr 1fr;
     align-self: stretch;
   }
+
+  h2 {
+    margin: 2rem 0;
+    text-align: center;
+    grid-area: header;
+    grid-column: 1/span 3;
+    grid-row: 1;
+  }
+
+  h3 {
+    margin: 0 1.25rem 1rem;
+    text-align: left;
+  }
+
+}
