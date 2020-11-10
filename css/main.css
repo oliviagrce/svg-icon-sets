@@ -130,4 +130,12 @@ p {
     text-align: left;
   }
 
+  .h-dome {
+    padding-bottom: .5rem;
+  }
+
+  .p-dome {
+    padding-bottom: 1.5rem;
+  }
+
 }
