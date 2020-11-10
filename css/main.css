@@ -152,3 +152,21 @@ p {
   }
 
 }
+
+@media only screen and (min-width: 60em) {
+
+  h2 {
+    margin: 5.5rem 0 4.75rem;
+    text-align: center;
+    grid-area: header;
+    grid-column: 1/span 3;
+    grid-row: 1;
+  }
+
+  h3 {
+    text-align: center;
+  }
+
+  p {
+    margin: 0 3rem .5rem;
+  }
