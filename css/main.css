@@ -37,3 +37,15 @@ section {
     background-image: linear-gradient(to bottom, #ff9500, #ff5e3a);
     color: #fff;
 }
+
+div {
+  text-align: center;
+  justify-content: space-between;
+}
+
+.icon-link {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  display: inline-block;
+}
