@@ -59,7 +59,13 @@ div {
 
 h2 {
   padding: 0;
-  margin: 0 0 1.5rem;
+  margin: 1.25rem 1.25rem .5rem;
   grid-area: header;
   font-size: 2rem;
+}
+
+h3 {
+  padding: 0;
+  margin: 0 0 1.5rem;
+  font-size: 1.5rem;
 }
